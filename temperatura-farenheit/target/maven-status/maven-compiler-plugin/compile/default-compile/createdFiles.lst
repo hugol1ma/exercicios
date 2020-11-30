@@ -1,0 +1,3 @@
+br\com\tinnova\Main.class
+br\com\tinnova\convertertemperatura\ConverterTemperatura.class
+br\com\tinnova\convertertemperatura\FarenheitParaCelsius.class
